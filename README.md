@@ -114,19 +114,5 @@ Prompt: *"When a user asks 'What’s the nutritional value of this dish?', first
 
 
 
-# Result: Thus the Prompts were exected succcessfully .
-
-
-### Conclusion 
-
-The experiment successfully demonstrated the effectiveness of diverse prompting techniques such as straightforward, tabular, preceding question, and missing word prompts. Each method enabled structured, context-aware, and precise AI-generated outputs. Overall, the exercise enhanced understanding of how prompt patterns influence clarity, format, and response quality in AI-generated reports.
-
-
-
-Result: The various types of Prompts are executed successfully with generated the report.
-
-
-
-
 # Result: Thus the Prompts were exected succcessfully.
 
